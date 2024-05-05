@@ -15,7 +15,7 @@
 
 <h2>Connect with me </h3>
 
-<a href="mailto:federico.milanesio@unito.it" target="_blank"><img src="icons/mail.svg" alt="mail"></a>
+<a href="federico.milanesio@unito.it" target="_blank"><img src="icons/mail.svg" alt="mail"></a>
 <a href="https://twitter.com/FedeMilanesio" target="_blank"><img src="icons/twitter.svg" alt="twitter"></a>
 <a href="https://github.com/FedericoMilanesio" target="_blank"><img src="icons/github.svg" alt="github"></a>
 <a href="https://www.linkedin.com/in/federico-milanesio/" target="https://www.linkedin.com/in/federico-milanesio/"><img src="icons/linkedin.svg" alt="linkedin"></a>
