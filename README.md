@@ -1,16 +1,21 @@
-### Hi there 👋
+<h3 align="center">:wave: Hi there! Federico's here</h3>
 
-<!--
-**FedericoMilanesio/FedericoMilanesio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://tbd">Website</a> •
+  <a href="https://tbd">Twitter</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
+---
+:microscope: I'm a PhD students in Physics, studyign neural networks and machine learning at the University of Turin. My researh focus on studying learning dynamics for simple network to extract general behaviors for different architectures.
+
+- 😄 Pronouns: He/Him
+
+- 💬 Ask me about: Machine Learning, Neural Networks and statistical mechanics
+
+- 📫 How to reach me: [federico.milanesio@unito.it_](mailto:tua1@federico.milanesio@unito.it)
+
 - ⚡ Fun fact: ...
--->
+
+<h2>Connect with me </h3>
