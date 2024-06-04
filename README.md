@@ -3,7 +3,7 @@
 
 
 ---
-- :microscope: PhD student in Physics, studying neural networks and machine learning at the University of Turin. My researh focus on studying learning dynamics for simple network to extract general behaviors for different architectures.
+- :microscope: PhD student in Physics, studying neural networks and machine learning in the [Biophys group](https://biophys-turin.github.io/) at the University of Turin. My researh focus on studying learning dynamics for simple network to extract general behaviors for different architectures.
 
 - 😄 Pronouns: He/Him
 
